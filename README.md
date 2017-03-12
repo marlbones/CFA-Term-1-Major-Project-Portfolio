@@ -59,7 +59,7 @@ Development of MVP began using Ruby on Rails. Changes to design happened through
 - Update linkedin link with actual linked in
 - Continue to update skills section.
 - Continue to work on site responsiveness. Currently not as engaging and alignments off in "Ipad view".
-- Unstable on mobile devices - work at rectifying
+- Unstable on mobile devices - work at rectifying. Turn off parallax for mobile?
 - Create "view more" buttons when projects and pages for projects.
 - Images need to be resized so page loads quicker. Currently loading speed ridiculous.
 - Current images in project section extend screen width, making it a bit off.
