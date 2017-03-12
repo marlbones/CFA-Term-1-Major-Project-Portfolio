@@ -63,4 +63,5 @@ Development of MVP began using Ruby on Rails. Changes to design happened through
 - Create "view more" buttons when projects and pages for projects.
 - Images need to be resized so page loads quicker. Currently loading speed ridiculous.
 - Current images in project section extend screen width, making it a bit off.
+- Really slow in Safari. Could be images?
 - Additional refactoring of code required.
