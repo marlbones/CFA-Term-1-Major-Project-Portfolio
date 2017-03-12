@@ -44,6 +44,7 @@ This phase also involved the identification of important content and features su
 - Project section
 - Contact section
 - Skills
+
 # Design
 The design phase started with initial sketches and the development of wireframes to use as a guide/base:
 ![20170310_135824](https://cloud.githubusercontent.com/assets/23368600/23780809/2af7b89e-059d-11e7-9017-edf2f4607005.jpg)
