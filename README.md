@@ -53,5 +53,9 @@ Development of MVP began using Ruby on Rails. Changes to design happened through
 ***
 # Outstanding Issues
 - Update and adjust projects section with actual projects (when you make them).
+- Update linkedin link with actual linked in
 - Continue to update skills section.
-- Continue to work on site responsiveness. Currently not as engaging and alignments slightly off in "Ipad view".
+- Continue to work on site responsiveness. Currently not as engaging and alignments off in "Ipad view".
+- Create "view more" buttons when projects and pages for projects.
+- Images need to be resized so page loads quicker.
+- Additional refactoring of code required.
