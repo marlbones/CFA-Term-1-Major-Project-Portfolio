@@ -21,7 +21,9 @@ Design an online portfolio advertising self and projects for potential employers
 - CSS
 - Ruby on Rails
 - Bootstrap
+
 ***
+
 # User Stories
 Used Trello to build user stories and manage project (see image below). User stories assumed that visitors of site would be potential employers or clients. Developer stories focused on what I wanted the same target audience to see on the page. Both user and developer stories ended up being quite similar due to this approach.
 
